@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-10T17:57:32.071Z'
+datePublished: '2016-08-10T18:01:11.722Z'
+sourcePath: _posts/2016-08-10-pyramiden-spitsbergen-svalbard-norway.md
 author: []
 via: {}
-dateModified: '2016-08-10T17:57:12.573Z'
+dateModified: '2016-08-10T18:01:10.680Z'
 title: ''
 publisher:
   name: Kimmo Hokkanen
 description: 'Pyramiden [Spitsbergen, Svalbard, Norway]'
 starred: false
-sourcePath: _posts/2016-08-10-pyramiden-spitsbergen-svalbard-norway.md
 inFeed: true
 hasPage: true
 inNav: false
